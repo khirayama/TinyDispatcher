@@ -61,7 +61,7 @@ import TinyDispatcher from 'TinyDispatcehr';
 
 const CHANGE_EVENT = 'CHANGE';
 
-class Store extends EventDispatcher {
+class Store extends TinyDispatcehr {
   constructor() {
     super();
   }
@@ -92,6 +92,7 @@ class SomeStore extends Store {
 new SomeStore(); // singleton
 ```
 
+
 ### if you use React....
 Linten Store's events at ```componentDisMount```.
 ```
@@ -115,3 +116,4 @@ class SomeComponent extends React.Component {
   }
 }
 ```
+

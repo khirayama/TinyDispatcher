@@ -1,5 +1,5 @@
 # TinyDispather
-simple &amp; tiny event dispatcher for es6
+simple &amp; tiny event dispatcher for es6.
 
 ### Getting Started
 

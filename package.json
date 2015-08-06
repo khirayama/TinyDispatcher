@@ -1,0 +1,24 @@
+{
+  "name": "tiny-dispatcher",
+  "version": "1.0.0",
+  "description": "simple & tiny event dispatcher for es6.",
+  "main": "TinyDispatcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khirayama/TinyDispather.git"
+  },
+  "keywords": [
+    "dispatcher",
+    "event",
+    "flux"
+  ],
+  "author": "khirayama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khirayama/TinyDispather/issues"
+  },
+  "homepage": "https://github.com/khirayama/TinyDispather#readme"
+}

@@ -11,9 +11,7 @@
     "url": "git+https://github.com/khirayama/TinyDispather.git"
   },
   "keywords": [
-    "dispatcher",
-    "event",
-    "flux"
+    "dispatcher", "flux", "observer", "event", "events", "trigger", "emitter", "pubsub", "listener"
   ],
   "author": "khirayama",
   "license": "MIT",

@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khirayama/TinyDispather.git"
+    "url": "git+https://github.com/khirayama/TinyDispatcher.git"
   },
   "keywords": [
     "dispatcher", "flux", "observer", "event", "events", "trigger", "emitter", "pubsub", "listener"
@@ -16,7 +16,7 @@
   "author": "khirayama",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/khirayama/TinyDispather/issues"
+    "url": "https://github.com/khirayama/TinyDispatcher/issues"
   },
-  "homepage": "https://github.com/khirayama/TinyDispather#readme"
+  "homepage": "https://github.com/khirayama/TinyDispatcher#readme"
 }

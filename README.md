@@ -1,4 +1,4 @@
-# TinyDispather
+# TinyDispatcher
 simple &amp; tiny event dispatcher for es6.
 
 ### Getting Started

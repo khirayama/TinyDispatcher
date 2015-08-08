@@ -1,6 +1,6 @@
 {
   "name": "tiny-dispatcher",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "simple & tiny event dispatcher for es6.",
   "main": "TinyDispatcher.js",
   "scripts": {

@@ -1,6 +1,8 @@
 # TinyDispatcher
 simple &amp; tiny event dispatcher for es6.
 
+### Please use it instead of this. [MicroEmitter](https://github.com/khirayama/MicroEmitter)
+
 ### Getting Started
 
 ```
